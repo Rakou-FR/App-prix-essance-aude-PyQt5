@@ -1,0 +1,8 @@
+sam, b'$2b$12$6e3xObMnJBEQoFjq6sojQusA00dlMTkfSWb8Z59S7MdrCjMTAmn5C'
+sus, b'$2b$12$2Kmx1.Ul6bjfLVmexYEPqec161lv89SEY.0mQst2rEuDIjGeaXRNm'
+bite, b'$2b$12$DyzIAM07OLVA74ku2ASBTucwSCQfeQNiGRgyAp6rTgIaFinzDuiCa'
+zeub, b'$2b$12$CSTRiDBijlnrAozJ1ZjND.JJNSC5jWn34HiGWiL7fLvZrFnkGSefK'
+azerty, b'$2b$12$s1ZeeUu02m7DismZs8Rtc.MdhVc6.GdqzJDdTO9LlGW.KoqpGvUeu'
+jonathanisou, b'$2b$12$AeqiR3fiUX7bWm9CFcaJLO8jM9aP1P7AXKcm0P0NNEXdrKDqdA9iq'
+amé, b'$2b$12$Nq7OurcENQpFJCD31jVhuOXREic.gsJ4bq4LJ1oV7IADhFoUUq0o.'
+pierre_cailloux, b'$2b$12$Plv3rrFcOUoVnsk0Xc81J.ggaC9AaGZpjyAoa/U9fekvaE1TbJ6xi'
